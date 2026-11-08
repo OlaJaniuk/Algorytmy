@@ -1,0 +1,16 @@
+# Skompilowane pliki wykonywalne
+josephus
+diagonals
+tsp_tarzan
+collatz
+banana_tree
+
+# Uniwersalne pliki binarne i kompilacji
+*.out
+*.exe
+*.o
+*.a
+
+# Pliki systemowe i foldery edytorów
+.DS_Store
+.vscode/
